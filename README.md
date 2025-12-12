@@ -1,10 +1,10 @@
 # DREDD-Suite
-DreddSuite is a modular OSINT and DFIR toolkit featuring case management, hash analysis, SSL inspection, LinkedIn employee scraping, username enumeration, and WHOIS intelligence. A unified launcher provides a streamlined, professional workflow for investigators.
+Dredd ( Data Reconnaissance, Enumeration & Digital Discovery ) is a modular OSINT and DFIR toolkit featuring case management, hash analysis, SSL inspection, LinkedIn employee scraping, username enumeration, and WHOIS intelligence. A unified launcher provides a streamlined, professional workflow for investigators.
 
 <h1 align="center">DreddSuite – Modular OSINT & DFIR Toolkit</h1>
 
 <p>
-DreddSuite is a modular, launcher-driven toolkit for OSINT investigations, digital forensics, SSL/TLS inspection, hash analysis, LinkedIn employee enumeration, username reconnaissance, and case management.  
+DreddSuite ( Data Reconnaissance, Enumeration & Digital Discovery ) is a modular, launcher-driven toolkit for OSINT investigations, digital forensics, SSL/TLS inspection, hash analysis, LinkedIn employee enumeration, username reconnaissance, and case management.  
 All modules run through a unified CrowsNest-themed launcher for a clean and consistent workflow.
 </p>
 
